@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503312135291",
+    "project_id": "crashanalytics-149cf",
+    "storage_bucket": "crashanalytics-149cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503312135291:android:6d9874b8c243d841159ede",
+        "android_client_info": {
+          "package_name": "com.crashanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDkgy1dLPLzYD5-3svFFHdK5Dp-cnGge0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
